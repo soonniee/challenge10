@@ -145,6 +145,8 @@ li:nth-child(2) .year div{
 }
 .info{
     background-color: #690200;
+    font-size:18px;
+    font-weight: 600;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 10% repeat(6,15%);
