@@ -160,4 +160,7 @@ li:nth-child(2) .year div{
     display: flex;
     
     justify-content: space-between;
+}
+.info .header li{
+    padding : 6px 6px;
 } 
